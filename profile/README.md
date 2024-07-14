@@ -1,6 +1,11 @@
 ## Welcome To Testonics 👋
 
-We make the testing easier by automating through different automation frameworks like Selenium, Playwright, WebdriverIO, Cypress, RobotFramework and many more. 
+We make the testing easier by automating through different automation utilities and provide supports on automation frameworks like
+- Selenium
+- Playwright
+- WebdriverIO
+- Cypress
+- RobotFramework and many more. 
 <!--
 
 **Here are some ideas to get you started:**
